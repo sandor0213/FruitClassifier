@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  FruitClassifier
 //
-//  Created by coax on 06.12.2022.
-//
 
 import UIKit
 
